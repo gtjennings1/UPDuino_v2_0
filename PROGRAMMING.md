@@ -6,14 +6,12 @@ Hardware Needed:
 
 Software Needed:
 
-* [Lattice Diamond Programmer Standalone (v3.9 x64 used for programming instructions)]
-        (http://www.latticesemi.com/en/Products/DesignSoftwareAndIP/ProgrammingAndConfigurationSw/Programmer.aspx#_20C94305815A4B3AAAFEA8B83943B751)
-* [Lattice iCECube2 Software]
-        (http://www.latticesemi.com/Products/DesignSoftwareAndIP/FPGAandLDS/iCEcube2.aspx#_4351BE10BA504435B5226390CF5D7D4C)
+* [Lattice Diamond Programmer Standalone (v3.9 x64 used for programming instructions)](http://www.latticesemi.com/en/Products/DesignSoftwareAndIP/ProgrammingAndConfigurationSw/Programmer.aspx#_20C94305815A4B3AAAFEA8B83943B751)
+* [Lattice iCECube2 Software](http://www.latticesemi.com/Products/DesignSoftwareAndIP/FPGAandLDS/iCEcube2.aspx#_4351BE10BA504435B5226390CF5D7D4C)
 
 FPGA Projects Needed:
 
-    • [UPDuino Blinky LED Design](http://www.gnarlygrey.com/downloads/RGB_LED_BLINK_20170606.tar)
+* [UPDuino Blinky LED Design](http://www.gnarlygrey.com/downloads/RGB_LED_BLINK_20170606.tar)
 
 Programming (SPI Flash):
 
