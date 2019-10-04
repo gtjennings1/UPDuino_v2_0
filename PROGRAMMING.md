@@ -5,15 +5,18 @@ Hardware Needed:
 * [Gnarly Grey UPDuino v2.0 Board](http://gnarlygrey.atspace.cc/development-platform.html#upduino_v2)
 
 Software Needed:
-    • [Lattice Diamond Programmer Standalone (v3.9 x64 used for programming instructions)]
+
+* [Lattice Diamond Programmer Standalone (v3.9 x64 used for programming instructions)]
         (http://www.latticesemi.com/en/Products/DesignSoftwareAndIP/ProgrammingAndConfigurationSw/Programmer.aspx#_20C94305815A4B3AAAFEA8B83943B751)
-    • [Lattice iCECube2 Software]
+* [Lattice iCECube2 Software]
         (http://www.latticesemi.com/Products/DesignSoftwareAndIP/FPGAandLDS/iCEcube2.aspx#_4351BE10BA504435B5226390CF5D7D4C)
 
 FPGA Projects Needed:
+
     • [UPDuino Blinky LED Design](http://www.gnarlygrey.com/downloads/RGB_LED_BLINK_20170606.tar)
 
 Programming (SPI Flash):
+
 1. Plug UPDuino v2.0 in to your PC using the micro USB port on the board
 2. Open Lattice Diamond Programmer
 3. Click `Detect Cable` then `OK`
@@ -29,6 +32,7 @@ Programming (SPI Flash):
 10. Click `Design` -> `Program`
 
 Project Synthesis (Compiling) and bitstream (Firmware) generation:
+
 1. Unzip RGB_LED_BLINK_20170606.zip
 2. Open Lattice iCECube2 Software
 3. Double click `Open Project`
