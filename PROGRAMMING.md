@@ -37,5 +37,5 @@ Project Synthesis (Compiling) and bitstream (Firmware) generation:
 4. Navigate to *\RGB_LED_BLINK_20170606\rgb\rgb_sbt.project and `Open`
 5. Double click `Run Synplify Pro Synthesis`
 6. Right click on `Run P&R` and left click `Run Bitmap`
-    a. Note – this will run all remaining synthesis steps including place, route and bitmap generation.
-    b. Generated bitstream will be loaded in the `*\rgb\rgb_Implmnt\sbt\outputs\bitmap folder`
+    *. Note – this will run all remaining synthesis steps including place, route and bitmap generation.
+    *. Generated bitstream will be loaded in the `*\rgb\rgb_Implmnt\sbt\outputs\bitmap folder`
